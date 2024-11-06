@@ -53,7 +53,7 @@ systemctl restart vless-grpc.service
 service cron restart
 clear
 echo -e "================================="
-echo -e "            XRAY GRPC NT           " 
+echo -e "      XRAY GRPC BL4CK H4T        " 
 echo -e "================================="
 echo -e "Remarks           : ${user}"
 echo -e "Domain            : ${domain}"
