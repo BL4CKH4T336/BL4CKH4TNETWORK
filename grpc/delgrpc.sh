@@ -29,7 +29,7 @@ NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/vlessgrpc.json")
 	
 	clear
 	echo ""
-	echo " Select the existing client you want to remove by NT"
+	echo " Select the existing client you want to remove by DARKBOY"
 	echo " Press CTRL+C to return"
 	echo " ==============================="
 	echo "     No  Expired   User"
@@ -54,7 +54,7 @@ systemctl restart vless-grpc.service
 clear
 echo ""
 echo "==============================="
-echo "  NT XRAY GRPC VMESS VLESS Account Deleted  "
+echo "  DARK XRAY GRPC VMESS VLESS Account Deleted  "
 echo "==============================="
 echo "Username  : $user"
 echo "Expired   : $exp"
