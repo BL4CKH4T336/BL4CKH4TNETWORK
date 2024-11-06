@@ -1,4 +1,4 @@
-# NETWORK TWEAKER VIP AIO
+# BLRCK H4T VIP AIO
 
 # Directly install without the need to register an IP VPS 
 
@@ -95,8 +95,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 
 # Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/networktweakerop/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/+t1MGUMC6GsZhNWFl/)
+[![Telegram-channels](https://t.me/freenetjiovi)](https://t.me/INOCENT_FILES/)
+[![Telegram-chat-grup](https://t.me/INOCENTCHAT)](https://t.me/Freenetjiovi336/)
 
 # ATTENTION (MUST READ) CAREFULLY
 - PROHIBITED FOR SALE BECAUSE I GET FREE FROM THE INTERNET
