@@ -1,5 +1,5 @@
 #!/bin/bash
-# NETWORK TWEAKER 
+# BL4CK H4T NETWORK
 BGreen='\e[1;32m'
 NC='\e[0m'
 clear
