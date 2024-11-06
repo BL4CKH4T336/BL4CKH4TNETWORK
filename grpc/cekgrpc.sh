@@ -10,7 +10,7 @@ clear
 echo -n > /tmp/other.txt
 data=( `cat /etc/xray/vmessgrpc.json | grep '^###' | cut -d ' ' -f 2`);
 echo "-------------------------------";
-echo "   XRAY GRPC VMess User Login by NT";
+echo " XRAY GRPC VMess User Login by DARK";
 echo "-------------------------------";
 for akun in "${data[@]}"
 do
